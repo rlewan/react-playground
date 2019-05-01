@@ -1,0 +1,9 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "Just learning React",
+  "repository": "git@github.com:rlewan/react-playground.git",
+  "author": "Rafał Lewandowski <rafal_lewandowski@outlook.com>",
+  "license": "MIT",
+  "private": true
+}

@@ -1,2 +1,3 @@
-# react-playground
-Just learning React
+# React Playground
+
+Just learning some React over here...
